@@ -1,0 +1,10 @@
+#data{
+    display: grid;
+    grid-column: 5;
+    row-gap: 5px;
+    columns: 5;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
